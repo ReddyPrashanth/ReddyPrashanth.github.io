@@ -1,4 +1,4 @@
-# Introduction
+# INTRODUCTION
 
 With six years of hands-on experience in software engineering, I am a versatile and results-driven professional dedicated to delivering high-quality solutions that meet both user needs and business objectives. Throughout my career, I have honed my skills across various domains, from full-stack web development to cloud-native applications, consistently leveraging emerging technologies to drive innovation and efficiency.
 
@@ -10,7 +10,7 @@ My journey in software engineering began with a passion for problem-solving and 
 
 **OCT 2018 - PRESENT**
 
-Currently working as a lead software engineer to the client USGS (United States geological Survey). Currently working on multiple projects GeoEngine5, FEWS and FFI. Worked as a software engineer on projects like MTBS (Modern trends in Burn Severity) and made them operational currently used by NPS (National Parks Service) organization.
+As the Lead Software Engineer for the projects GeoEngine 5 and FFI, I am responsible for overseeing the technical development and implementation of GeoEngine 5 Data Processing Platform and FFI Data Depot. Currently working on multiple projects GeoEngine5, FEWS and FFI. In the past worked as a software engineer on projects like MTBS (Modern trends in Burn Severity) and made them operational currently used by NPS (National Parks Service) organization.
 
 ### Resposibilities
 
@@ -39,19 +39,22 @@ Worked on a short term project called Nuance as a contractor on large data migra
 - Attend weekly status update calls on the development progress.
 - Active participation in technical discussions with the team lead.
 - Coordinating with offshore team on the development progress and provide status update to project manager on weekly basis.
+- Assist in troubleshooting and debugging issues reported by QA, identifying root causes and implementing appropriate fixes.
 
 ### SVS TECHNOLOGIES, Memphis — Junior Software Developer
 
 **FEB 2018 - APR 2018**
 
-Worked on a project to move legacy employee registry windows application to web application using Java and its web framework . Small team of 3 developers carries all the work and it's relatively a small project. During this period acquired frontend and backend skills like Javascript, CSS, Spring and Hibernate.
+Worked on a project to move legacy employee registry windows application to web application using Java and its web framework. Small team of 3 developers carries out all the work and it's relatively a small project. During this period i acquired frontend, backend and database skills.
 
 ### Responsibilities
 
-- Migrating legacy application to use modern technologies
-- Participation on design implementation discussions.
-- Coordination with team members on problem solving
-- Weekly status updates.
+- Participate in the design, development, and testing phases of the project lifecycle, following established coding standards and best practices.
+- Collaborate with team members to analyze requirements, propose technical solutions, and estimate development efforts for new features and enhancements.
+- Write clean, efficient, and maintainable code in Java, adhering to object-oriented principles and design patterns.
+- Work with databases (such as MySQL, PostgreSQL) to implement data models and perform CRUD operations as required by the application.
+- Utilize version control systems (e.g., Github) to manage code repositories, branch management, and code merging.
+- Assist in troubleshooting and debugging issues reported by QA or end-users, identifying root causes and implementing appropriate fixes.
 
 ### UNIVERSITY OF SOUTH DAKOTA, Vermillion — Research Assistant
 
@@ -59,13 +62,13 @@ Worked on a project to move legacy employee registry windows application to web 
 
 As a research assistant, worked on the implementation of image change detection algorithm on earth MODIS satellite images using Python raster data processing libraries. This project is to research and analyze earth geographical changes over a period of time and provide change detection results.
 
-# Education
+# EDUCATION
 
 Master’s Degree In Computer Science | University of South dakota, Vermillion (Jan 2016 - Dec 2017) | GPA (3.2/4)
 
 Bachelor’s Degree in Electronics and Communication Engineering | Vidya Jyothi Institute of Technology(JNTU), Hyderabad (Aug 2011 - May 2015) | GPA (3.75/4)
 
-# Skills
+# SKILLS
 
 ### Programming Skills
 
@@ -140,7 +143,17 @@ Bachelor’s Degree in Electronics and Communication Engineering | Vidya Jyothi 
 - Problem Solving
 - Project Management
 
-# Projects
+# PROJECTS
+
+### SMS - SCHOOL MANAGEMENT SYSTEM
+
+[Website](https://sms.devopscareer.online/)
+
+Developed a comprehensive School Management System to streamline administrative processes, course management and improve communication between stakeholders including students, teachers, parents and amdins.
+
+**Technology Stack**
+
+JavaScript, NextJS, PostgreSQL, Prisma, RabbitMQ, Tailwind CSS, shadcn/ui
 
 ### FEWS - FAMINE EARLY WARNING SYSTEM
 
@@ -186,7 +199,7 @@ PHP, WordPress, JavaScript, Open Layers, GeoServer
 
 ### NUANCE
 
-The project entails migration from legacy java application to latest spring boot application for batch processing. This also includes migration of databases from Oracle to NoSQL database MongoDB. This is a daily data injection to MongoDB from a REST application.
+The project entails migration of legacy java application to latest spring boot application for batch processing. This also includes migration of databases from Oracle to NoSQL database MongoDB. This is a daily data injection to MongoDB from a REST application.
 
 **Technology Stack**
 
