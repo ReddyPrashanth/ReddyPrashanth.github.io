@@ -61,21 +61,9 @@ As a research assistant, worked on the implementation of image change detection 
 
 # Education
 
-### University of South dakota, Vermillion — Master’s Degree
+Master’s Degree In Computer Science | University of South dakota, Vermillion (Jan 2016 - Dec 2017) | GPA (3.2/4)
 
-**JAN 2016 - DEC 2017**
-
-**GPA 3.2/4**
-
-Completed master’s degree in Computer Science Major. During the 2 year degree I gained some programming and research skills while working as a research assistant. As a research assistant worked on an implementation of Image change detection algorithms on MODIS satellite images using C and MATLAB. Attended courses like Linux Administration, Algorithms and Data Structures, Advanced Networking and Security and Web Application Development and these courses helped me to be successful in Software Engineering.
-
-### Vidya Jyothi Institute of Technology(JNTU), Hyderabad — Bachelor’s Degree in Electronics and Communication Engineering
-
-**AUG 2011 - MAY 2015**
-
-**GPA 3.75/4**
-
-Completed bachelor’s degree in Electronic and Communication Engineering Major. In this 4 year term I gained a lot of skills like Communication, Practical Knowledge, Programming, Quantitative Reasoning, Critical Thinking and many more.
+Bachelor’s Degree in Electronics and Communication Engineering | Vidya Jyothi Institute of Technology(JNTU), Hyderabad (Aug 2011 - May 2015) | GPA (3.75/4)
 
 # Skills
 
@@ -92,6 +80,7 @@ Completed bachelor’s degree in Electronic and Communication Engineering Major.
 - NestJS
 - Django
 - ReactJS
+- VueJs 2
 - NextJS
 - Tailwind CSS
 - Bootstrap CSS
@@ -146,3 +135,67 @@ Completed bachelor’s degree in Electronic and Communication Engineering Major.
 - Adaptability
 - Multi Tasking
 - Agile Methodologies
+
+# Projects
+
+### FEWS - FAMINE EARLY WARNING SYSTEM
+
+[Website](https://earlywarning.cr.usgs.gov/fews)
+
+The USGS FEWS NET Data Portal provides access to geo-spatial data, satellite image products, and derived data products in support of FEWS.NET drought monitoring efforts throughout the world. This portal is provided by the USGS FEWS NEt project, part of the Early Warning Focus Area at the USGS Earth Resources Observation and Science (EROS) center.
+
+**Technology Stack**
+
+PHP, Laravel, Javascript, MySQL, Tailwind CSS
+
+### FFI - FEAT/FIREMON INTEGRATED
+
+FFI (FEAT/FIREMON Integrated) is an interagency plot-level monitoring software application designed to assist managers with collection, storage and analysis of ecological information. It was developed through a complementary integration of the Fire Ecology Assessment Tool (FEAT) and FIREMON. FFI is funded by the Department of the Interior and US Forest Service. This project is a complete migration of mutiple legacy Windows applications to the web platform. It follows microservices event based architecture and CQRS design pattern.
+
+**Technology Stack**
+
+NodeJS, NestJS, Microservices, CQRS, PostgreSQL, MS SQL Server, TypeScript, TypeORM, ReactJS
+
+### MTBS - MODERN TRENDS IN BURN SEVERITY
+
+The Monitoring Trends in Burn Severity (MTBS) is an inter agency program whose goal is to consistently map the burn severity and extent of large fires across all lands of the United State from 1984 to present. This includes all fires 1000 acres or greater in Western United States and 500 acres or greater in the Eastern United States. The extent of coverage includes the continental U.S., Alaska, Hawaii and Puerto Rico. ETD is a web-based administration application to manage a repository of fire events and its associated mapping information for MTBS postfire mapping programs.
+
+**Technology Stack**
+
+PHP, Laravel, Javascript, VueJS 2, Open Layers JS Library
+
+### GEOENGINE 5
+
+GeoEngine 5 is a data processing platform for multiple projects in our science division. It’s a platform which processes high volumes of raster data for multiple regions across the world and generates statistics on various products like CHIRPS, RFE, eMODIS, SoilMoisture etc., for various periodicities like Pentad (5 day), Dekad (10 day), Daily, Monthly, 2Month, 3Month, Yearly. These statistics are used on multiple USGS projects and scientists use them to study the changes across the globe.
+
+**Technology Stack**
+
+PHP, Laravel, Python, JavaScript, RabbitMQ, PostgresQL, Docker
+
+### AFGHAN
+
+USGS participated in collaborative projects in Afghanistan’s natural resource sector from the 1950s through the early 1970s. Beginning in the late 1970s, conflict and instability in the country put an end to the USGS involvement for more than a quarter century. During that time, Afghan natural resource agencies and institutions were decimated. Scientists, technicians, and other employees were unable to continue their work or stay current in their research fields. Facilities and laboratories became largely non-functional. Instruments and equipment, as well as vehicles and logistical support, all but disappeared. However, many Afghan scientists were able to preserve decades worth of vital and irreplaceable geographic information and other data, in some cases safeguarding it in their own homes. This is a WordPress Website which has responsive map viewers for Afghan minerals, water resources and their respective data downloads.
+
+**Technology Stack**
+
+PHP, WordPress, JavaScript, Open Layers, GeoServer
+
+### NUANCE
+
+The project entails migration from legacy java application to latest spring boot application for batch processing. This also includes migration of databases from Oracle to NoSQL database MongoDB. This is a daily data injection to MongoDB from a REST application.
+
+**Technology Stack**
+
+Java 8, Spring Boot 2, Spring Batch, MongoDB, Spring REST
+
+# CERTIFICATIONS
+
+### AWS Certified Developer – Associate
+
+![AWS certified Developer](/assets/img/aws-dev-ass.png)
+
+- Demonstrates proficiency in designing, developing, and deploying applications on the Amazon Web Services (AWS) platform.
+- Validates skills in leveraging AWS services such as Lambda, API Gateway, DynamoDB, and S3 to build scalable and reliable applications.
+- Expertise in serverless application development, containerization, and integration with various AWS services.
+- Demonstrated understanding of AWS security best practices, identity and access management (IAM), and compliance requirements.
+- Successfully passed the AWS Certified Developer – Associate certification exam, validating practical knowledge and experience in AWS application development.
