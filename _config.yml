@@ -1,5 +1,14 @@
 title: Prashanth Sreepathi
 # logo: /assets/img/headshot_circle.png
-#description: text below image
+description: A portfolio site for Prashanth Sreepathi.
 show_downloads: true
 theme: jekyll-theme-minimal
+email: s.prasantreddy@gmail.com
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/ReddyPrashanth
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/prashanth-sreepathi-79a891188
