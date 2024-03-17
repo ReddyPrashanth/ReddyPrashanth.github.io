@@ -69,72 +69,76 @@ Bachelor’s Degree in Electronics and Communication Engineering | Vidya Jyothi 
 
 ### Programming Skills
 
-- PHP
 - JavaScript
-- TypeScript
+- PHP
 - Python
+- TypeScript
 
 ### Frameworks
 
+- Bootstrap CSS
+- Django
 - Laravel
 - NestJS
-- Django
-- ReactJS
-- VueJs 2
 - NextJS
+- ReactJS
 - Tailwind CSS
-- Bootstrap CSS
+- VueJS 2
 
 ### Databases
 
+- DynamoDB
 - MySQL
 - PostgreSQL
-- DynamoDB
 - TimescaleDB
 
 ### Cloud Skills
 
 - Certified AWS Developer Associate
+- Amplify
 - API Gateway
 - AWS Lambda
-- EC2
-- RDS
-- DynamoDB
-- SQS
-- SNS
-- ECS
-- Cognito
-- S3
-- IAM
-- VPC
-- Route 53
-- CI/CD Services (Code Commit, Code Build, Code Deploy)
-- Elastic Beanstalk
-- Amplify
 - Cloud Formation
+- Cognito
+- DynamoDB
+- CI/CD Services (Code Commit, Code Build, Code Deploy)
+- ECS
+- EC2
+- Elastic Beanstalk
+- IAM
+- RDS
+- Route 53
 - Serverless Application Model (SAM)
+- SNS
+- SQS
+- S3
+- VPC
 
 ### CI/CD Tools
 
+- Ansible
 - Docker
 - Github
 - Gitlab
-- Ansible
 
 ### Distributed Systems
 
 - RabbitMQ
 - Redis
 
+### Workflow Management
+
+- Apache Airflow
+
 ### Other Skills
 
-- Leadership Skills
-- Problem Solving
-- Critical Thinking
-- Project Management
 - Adaptability
-- Multi Tasking
 - Agile Methodologies
+- Critical Thinking
+- Leadership Skills
+- Multi Tasking
+- Problem Solving
+- Project Management
 
 # Projects
 
