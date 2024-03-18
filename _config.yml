@@ -17,14 +17,16 @@ platforms:
 
 navigation:
   - name: Introduction
-    link: ./index.html#introduction
+    link: ./#introduction
   - name: Work Experience
-    link: ./index.html#work-experience
+    link: ./#work-experience
   - name: Education
-    link: ./index.html#education
+    link: ./#education
   - name: Skills
-    link: ./index.html#skills
+    link: ./#skills
   - name: Projects
-    link: ./index.html#projects
+    link: ./#projects
   - name: Certifications
-    link: ./index.html#certifications
+    link: ./#certifications
+  - name: Awards
+    link: ./#awards
