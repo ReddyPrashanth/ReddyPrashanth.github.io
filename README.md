@@ -1,10 +1,10 @@
-# INTRODUCTION
+## INTRODUCTION
 
 With six years of hands-on experience in software engineering, I am a versatile and results-driven professional dedicated to delivering high-quality solutions that meet both user needs and business objectives. Throughout my career, I have honed my skills across various domains, from full-stack web development to cloud-native applications, consistently leveraging emerging technologies to drive innovation and efficiency.
 
 My journey in software engineering began with a passion for problem-solving and a commitment to creating impactful software solutions. Over the years, I have successfully led and contributed to the development of numerous projects, ranging from enterprise-level applications to scalable platforms.
 
-# WORK EXPERIENCE
+## WORK EXPERIENCE
 
 ### KBR Wyle Services, Sioux Falls — Mid Level Software Engineer
 
@@ -62,13 +62,13 @@ Worked on a project to move legacy employee registry windows application to web 
 
 As a research assistant, worked on the implementation of image change detection algorithm on earth MODIS satellite images using Python raster data processing libraries. This project is to research and analyze earth geographical changes over a period of time and provide change detection results.
 
-# EDUCATION
+## EDUCATION
 
 Master’s Degree In Computer Science | University of South dakota, Vermillion (Jan 2016 - Dec 2017) | GPA (3.2/4)
 
 Bachelor’s Degree in Electronics and Communication Engineering | Vidya Jyothi Institute of Technology(JNTU), Hyderabad (Aug 2011 - May 2015) | GPA (3.75/4)
 
-# SKILLS
+## SKILLS
 
 ### Programming Skills
 
@@ -143,7 +143,7 @@ Bachelor’s Degree in Electronics and Communication Engineering | Vidya Jyothi 
 - Problem Solving
 - Project Management
 
-# PROJECTS
+## PROJECTS
 
 ### SMS - SCHOOL MANAGEMENT SYSTEM
 
@@ -205,7 +205,7 @@ The project entails migration of legacy java application to latest spring boot a
 
 Java 8, Spring Boot 2, Spring Batch, MongoDB, Spring REST
 
-# CERTIFICATIONS
+## CERTIFICATIONS
 
 ### AWS Certified Developer – Associate
 
@@ -216,3 +216,13 @@ Java 8, Spring Boot 2, Spring Batch, MongoDB, Spring REST
 - Expertise in serverless application development, containerization, and integration with various AWS services.
 - Demonstrated understanding of AWS security best practices, identity and access management (IAM), and compliance requirements.
 - Successfully passed the AWS Certified Developer – Associate certification exam, validating practical knowledge and experience in AWS application development.
+
+## AWARDS
+
+2023 ONE KBR AWARD WINNER | Awarded on OCTOBER 23, 2023
+
+2022 FFI TEAM AWARD WINNER | Awarded on JUNE 16, 2022
+
+2021 ONE KBR AWARD WINNER | Awarded on NOV 21, 2021
+
+2019 ONE KBR AWARD WINNER | Awarded on AUG 16, 2019
