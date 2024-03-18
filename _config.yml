@@ -16,7 +16,7 @@ platforms:
 
 navigation:
   - name: Introduction
-    link: ./index.html
+    link: ./index.html#introduction
   - name: Work Experience
     link: ./index.html#work-experience
   - name: Education
