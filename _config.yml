@@ -3,8 +3,9 @@ logo: /assets/img/logo.jpg
 description: Portfolio website for Prashanth Sreepathi.
 show_downloads: true
 theme: jekyll-theme-minimal
-email: s.prasantreddy@gmail.com
+email: iamsreepathi@gmail.com
 phone: +16059007958
+resume: https://s3.us-east-2.amazonaws.com/reddyprashanth.github.io/resume.pdf
 
 platforms:
   - name: GitHub

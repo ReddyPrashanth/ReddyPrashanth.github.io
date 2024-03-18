@@ -6,7 +6,7 @@ My journey in software engineering began with a passion for problem-solving and 
 
 # WORK EXPERIENCE
 
-### KBR, Inc., Sioux Falls — Mid Level Software Engineer
+### KBR Wyle Services, Sioux Falls — Mid Level Software Engineer
 
 **OCT 2018 - PRESENT**
 
