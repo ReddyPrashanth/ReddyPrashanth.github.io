@@ -165,6 +165,20 @@ The USGS FEWS NET Data Portal provides access to geo-spatial data, satellite ima
 
 PHP, Laravel, Javascript, MySQL, Tailwind CSS
 
+### HMS - HOSPITAL MANAGEMENT SYSTEM
+
+[Github Repository](https://github.com/iamsreepathi/hospital-management)
+
+The Hospital Management System is a comprehensive website designed to streamline and automate various administrative, clinical, and operational tasks within a healthcare facility. Enables efficient management of patient records, including registration, admission, discharge, and transfer processes.Provides a user-friendly interface for scheduling and managing patient appointments with doctors. Facilitates the management of doctor profiles, staff assignments, and schedules. Automates the billing process, including generating invoices, processing insurance claims, and managing payments.
+
+**Technology Stack**
+
+Python, Django, Javascript, PostgreSQL, Tailwind CSS and Alpine JS
+
+**Technology Stack**
+
+JavaScript, NextJS, PostgreSQL, Prisma, RabbitMQ, Tailwind CSS, shadcn/ui
+
 ### FFI - FEAT/FIREMON INTEGRATED
 
 FFI (FEAT/FIREMON Integrated) is an interagency plot-level monitoring software application designed to assist managers with collection, storage and analysis of ecological information. It was developed through a complementary integration of the Fire Ecology Assessment Tool (FEAT) and FIREMON. FFI is funded by the Department of the Interior and US Forest Service. This project is a complete migration of mutiple legacy Windows applications to the web platform. It follows microservices event based architecture and CQRS design pattern.
@@ -226,3 +240,17 @@ Java 8, Spring Boot 2, Spring Batch, MongoDB, Spring REST
 2021 ONE KBR AWARD WINNER | Awarded on Nov 21, 2021
 
 2019 ONE KBR AWARD WINNER | Awarded on Aug 16, 2019
+
+## CODE REPOSITORIES
+
+[All Code Repositories](https://github.com/ReddyPrashanth?tab=repositories)
+
+Hospital Management System | Python, Django, PostgreSQL, Tailwind CSS, Alpine JS | [Code Repo](https://github.com/iamsreepathi/hospital-management)
+
+School Management System | NextJS, Javascript, PostgreSQL, Prisma, Tailwind CSS, shadcn/ui | [Code Repo](https://github.com/iamsreepathi/sms-admin)
+
+DynamoDB Seeder | JavaScript, DynamoDB JS SDK | [Code Repo](https://github.com/ReddyPrashanth/dynamodb-seeder)
+
+NestJS E-Commerce API | TypeScript, NestJS, TypeORM, PostgreSQL | [Code Repo](https://github.com/ReddyPrashanth/nest-js-ecommerce-api)
+
+Simple Blog Application | Laravel, Docker, PostgreSQL, Redis, React.js, Tailwind CSS | [Code Repo](https://github.com/ReddyPrashanth/laravel-blog)
