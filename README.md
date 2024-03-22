@@ -43,7 +43,7 @@ Worked on a short term project called Nuance as a contractor on large data migra
 
 ### SVS TECHNOLOGIES, Memphis — Junior Software Developer
 
-**FEB 2018 - JUN 2018**
+**MAR 2018 - JUN 2018**
 
 Worked on a project to move legacy employee registry windows application to web application using Java and its web framework. Small team of 3 developers carries out all the work and it's relatively a small project. During this period i acquired frontend, backend and database skills.
 
