@@ -117,6 +117,16 @@ Bachelor’s Degree in Electronics and Communication Engineering | Vidya Jyothi 
 - S3
 - VPC
 
+### Operating System
+
+- Windows
+- Linux/Centos
+
+### Web Servers
+
+- Apache
+- Nginx
+
 ### CI/CD Tools
 
 - Ansible
@@ -153,7 +163,7 @@ Developed a comprehensive School Management System to streamline administrative 
 
 **Technology Stack**
 
-JavaScript, NextJS, PostgreSQL, Prisma, RabbitMQ, Tailwind CSS, shadcn/ui
+JavaScript, NextJS, PostgreSQL, Prisma, RabbitMQ, Tailwind CSS, shadcn/ui, AWS Amplify
 
 ### FEWS - FAMINE EARLY WARNING SYSTEM
 
