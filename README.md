@@ -157,7 +157,7 @@ Bachelor’s Degree in Electronics and Communication Engineering | Vidya Jyothi 
 
 ### SMS - SCHOOL MANAGEMENT SYSTEM
 
-[Website](https://sms.devopscareer.online/)
+[Github Repository](https://github.com/iamsreepathi/sms-admin)
 
 Developed a comprehensive School Management System to streamline administrative processes, course management and improve communication between stakeholders including students, teachers, parents and amdins.
 
