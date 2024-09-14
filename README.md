@@ -251,9 +251,15 @@ Java 8, Spring Boot 2, Spring Batch, MongoDB, Spring REST
 
 2019 ONE KBR AWARD WINNER | Awarded on Aug 16, 2019
 
+## ARTICLES
+
+Restaurant Food Ordering Application | Laravel, Vue 3, Inertia JS, Laravel reverb, MySQL, Tailwind CSS | [Link](https://reddyprashanth.github.io/articles-spicesavor/)
+
 ## CODE REPOSITORIES
 
 [All Code Repositories](https://github.com/ReddyPrashanth?tab=repositories)
+
+Restaurant Food Ordering Application | Laravel, Vue 3, Inertia JS, Laravel reverb, MySQL, Tailwind CSS | [Code Repo](https://github.com/iamsreepathi/food-ordering-system)
 
 Hospital Management System | Python, Django, PostgreSQL, Tailwind CSS, Alpine JS | [Code Repo](https://github.com/iamsreepathi/hospital-management)
 

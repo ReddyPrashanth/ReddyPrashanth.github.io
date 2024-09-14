@@ -30,5 +30,7 @@ navigation:
     link: ./#certifications
   - name: Awards
     link: ./#awards
+  - name: Articles
+    link: ./#articles
   - name: Code Repositories
     link: ./#code-repositories
