@@ -253,7 +253,7 @@ Java 8, Spring Boot 2, Spring Batch, MongoDB, Spring REST
 
 ## ARTICLES
 
-Restaurant Food Ordering Application | Laravel, Vue 3, Inertia JS, Laravel reverb, MySQL, Tailwind CSS | [Link](https://reddyprashanth.github.io/articles-spicesavor/)
+Deployment Of Food Ordering Application | Laravel, Vue 3, Inertia JS, Laravel reverb, MySQL, Tailwind CSS | [Link](https://reddyprashanth.github.io/articles-spicesavor/)
 
 ## CODE REPOSITORIES
 
