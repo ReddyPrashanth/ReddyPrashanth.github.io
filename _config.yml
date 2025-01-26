@@ -5,7 +5,7 @@ show_downloads: true
 theme: jekyll-theme-minimal
 email: iamsreepathi@gmail.com
 phone: 6059007958
-resume: https://s3.us-east-2.amazonaws.com/reddyprashanth.github.io/resume-latest.pdf
+resume: http://psreepathi-resume.s3-website.us-east-2.amazonaws.com
 
 platforms:
   - name: GitHub
