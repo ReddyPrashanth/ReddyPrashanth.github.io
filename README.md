@@ -20,32 +20,10 @@ Senior Full-Stack Engineer with 8+ years of experience delivering data-heavy pla
 
 **Key Projects**
 
-- GeoEngine 5:
-  - Laravel
-  - Python
-  - Livewire
-  - Alpine.js
-  - Tailwind CSS
-  - RabbitMQ
-  - PostgreSQL
-  - Redis
-- FEWS:
-  - Laravel
-  - MySQL
-  - Inertia.js
-  - React
-  - Tailwind CSS
-- FFI:
-  - NestJS
-  - TypeScript
-  - React
-  - Tailwind CSS
-  - Microservices
-  - PostgreSQL
-- MTBS ETD:
-  - Laravel
-  - Vue
-  - Bootstrap
+- GeoEngine 5: Laravel, Python, Livewire, Alpine.js, Tailwind CSS, RabbitMQ, PostgreSQL, Redis.
+- FEWS: Laravel, MySQL, Inertia.js, React, Tailwind CSS.
+- FFI: NestJS, TypeScript, React, Tailwind CSS, Microservices, PostgreSQL.
+- MTBS ETD: Laravel, Vue, Bootstrap.
 
 ### Software Developer - Contract (Nuance Data Migration)
 
@@ -60,11 +38,7 @@ Senior Full-Stack Engineer with 8+ years of experience delivering data-heavy pla
 
 **Tech Stack**
 
-- Java
-- Spring Batch
-- MongoDB
-- REST APIs
-- Batch Processing
+Java, Spring Batch, MongoDB, REST APIs, Batch Processing
 
 ### Junior Software Developer
 
@@ -77,13 +51,7 @@ Senior Full-Stack Engineer with 8+ years of experience delivering data-heavy pla
 
 **Tech Stack**
 
-- Java
-- JSP
-- JSF
-- MySQL
-- Bootstrap
-- HTML
-- JavaScript
+Java, JSP, JSF, MySQL, Bootstrap, HTML, JavaScript
 
 ### Research Assistant - University of South Dakota
 
@@ -103,91 +71,36 @@ Bachelor of Electronics and Communication Science | Vidya Jyothi Institute of Te
 
 ### Backend
 
-- Laravel
-- NestJS
-- Node.js
-- REST APIs
-- OpenAPI
-- Microservices
-- gRPC
-- WebSockets
-- RabbitMQ
+- Laravel, NestJS, Node.js, REST APIs, OpenAPI, Microservices, gRPC, WebSockets, RabbitMQ
 
 ### Frontend
 
-- Angular
-- Vue
-- React
-- Inertia.js
-- Tailwind CSS
-- Bootstrap
+- Angular, Vue, React, Inertia.js, Tailwind CSS, Bootstrap
 
 ### Languages
 
-- PHP
-- TypeScript
-- JavaScript
-- Python
-- Node.js
+- PHP, TypeScript, JavaScript, Python, Node.js
 
 ### Datastores
 
-- PostgreSQL
-- MySQL
-- Redis
-- MariaDB
-- MongoDB
-- Elasticsearch
+- PostgreSQL, MySQL, Redis, MariaDB, MongoDB, Elasticsearch
 
 ### Cloud/DevOps
 
-- AWS
-  - EC2
-  - RDS
-  - S3
-  - CloudWatch
-  - ECS
-  - CloudFront
-  - Route 53
-  - Lambda
-  - API Gateway
-  - IAM
-  - SNS
-  - SQS
-  - SES
-  - Secrets Manager
-  - SAM
-  - VPC
-- Docker
-- GitHub Actions
-- GitLab CI
-- Terraform
-- Kubernetes
-- Ansible
+- AWS (EC2, RDS, S3, CloudWatch, ECS, CloudFront, Route 53, Lambda, API Gateway, IAM, SNS, SQS, SES, Secrets Manager, SAM, VPC)
+- Docker, GitHub Actions, GitLab CI, Terraform, Kubernetes, Ansible
 
 ### Observability
 
-- Grafana
-- Prometheus
-- Loki
-- Alert Manager
+- Grafana, Prometheus, Loki, Alert Manager
 
 ### AI/Automation
 
-- LLM integration
-- AI agents
-- prompt engineering
-- automation workflows
-- n8n
-- Claude Code
-- Codex
+- LLM integration, AI agents, prompt engineering, automation workflows, n8n, Claude Code, Codex
 
 ### External Services
 
-- Stripe
-- Cloudflare
-- Google APIs
-- Telegram API
+- Stripe, Cloudflare, Google APIs, Telegram API
 
 ## PROJECTS
 
