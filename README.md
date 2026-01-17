@@ -207,27 +207,22 @@ URL: [https://buildwithcode.dev](https://buildwithcode.dev)
 
 [All Articles](https://buildwithcode.dev/posts/)
 
-
-Building Apps on a Budget: My Software Stack for an Independent Developer | [Link](https://buildwithcode.dev/posts/scalable-web-apps-on-a-budget/)
-
-VILT Stack Deployment | Laravel, Vue 3, Inertia JS, Laravel reverb, MySQL, Tailwind CSS | [Link](https://buildwithcode.dev/posts/vilt/)
-
-K6 Load Testing for Microservices | NestJs, MicroServices, RabbitMQ, MySQL, Docker and Grafana K6 | [Link](https://buildwithcode.dev/posts/load-testing/)
-
-Complete CI/CD Setup for a Laravel Application | Laravel, Pest, Docker, MariaDB and GitLab | [Link](https://buildwithcode.dev/posts/laravel-cicd/)
-
-Application Monitoring Using Prometheus and Grafana | Laravel, Docker, Prometheus and Grafana | [Link](https://buildwithcode.dev/posts/app-monitoring/)
+| Article | Topics | Link |
+| --- | --- | --- |
+| Building Apps on a Budget: My Software Stack for an Independent Developer | Software stack | [Read](https://buildwithcode.dev/posts/scalable-web-apps-on-a-budget/) |
+| VILT Stack Deployment | Laravel, Vue 3, Inertia JS, Laravel reverb, MySQL, Tailwind CSS | [Read](https://buildwithcode.dev/posts/vilt/) |
+| K6 Load Testing for Microservices | NestJS, Microservices, RabbitMQ, MySQL, Docker, Grafana K6 | [Read](https://buildwithcode.dev/posts/load-testing/) |
+| Complete CI/CD Setup for a Laravel Application | Laravel, Pest, Docker, MariaDB, GitLab | [Read](https://buildwithcode.dev/posts/laravel-cicd/) |
+| Application Monitoring Using Prometheus and Grafana | Laravel, Docker, Prometheus, Grafana | [Read](https://buildwithcode.dev/posts/app-monitoring/) |
 
 ## CODE REPOSITORIES
 
 [All Code Repositories](https://github.com/ReddyPrashanth?tab=repositories)
 
-Restaurant Food Ordering Application | Laravel, Vue 3, Inertia JS, Laravel reverb, MySQL, Tailwind CSS | [Code Repo](https://github.com/iamsreepathi/food-ordering-system)
-
-Hospital Management System | Python, Django, PostgreSQL, Tailwind CSS, Alpine JS | [Code Repo](https://github.com/iamsreepathi/hospital-management)
-
-School Management System | NextJS, Javascript, PostgreSQL, Prisma, Tailwind CSS, shadcn/ui | [Code Repo](https://github.com/iamsreepathi/sms-admin)
-
-DynamoDB Seeder | JavaScript, DynamoDB JS SDK | [Code Repo](https://github.com/ReddyPrashanth/dynamodb-seeder)
-
-NestJS E-Commerce API | TypeScript, NestJS, TypeORM, PostgreSQL | [Code Repo](https://github.com/ReddyPrashanth/nest-js-ecommerce-api)
+| Repository | Stack | Link |
+| --- | --- | --- |
+| Restaurant Food Ordering Application | Laravel, Vue 3, Inertia JS, Laravel reverb, MySQL, Tailwind CSS | [Repo](https://github.com/iamsreepathi/food-ordering-system) |
+| Hospital Management System | Python, Django, PostgreSQL, Tailwind CSS, Alpine JS | [Repo](https://github.com/iamsreepathi/hospital-management) |
+| School Management System | NextJS, JavaScript, PostgreSQL, Prisma, Tailwind CSS, shadcn/ui | [Repo](https://github.com/iamsreepathi/sms-admin) |
+| DynamoDB Seeder | JavaScript, DynamoDB JS SDK | [Repo](https://github.com/ReddyPrashanth/dynamodb-seeder) |
+| NestJS E-Commerce API | TypeScript, NestJS, TypeORM, PostgreSQL | [Repo](https://github.com/ReddyPrashanth/nest-js-ecommerce-api) |
