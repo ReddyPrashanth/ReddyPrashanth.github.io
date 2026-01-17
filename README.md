@@ -1,255 +1,294 @@
 ## INTRODUCTION
 
-With seven years of hands-on experience in software engineering, I am a versatile and results-driven professional dedicated to delivering high-quality solutions that meet both user needs and business objectives. Throughout my career, I have honed my skills across various domains, from full-stack web development to cloud-native applications, consistently leveraging emerging technologies to drive innovation and efficiency.
-
-My journey in software engineering began with a passion for problem-solving and a commitment to creating impactful software solutions. Over the years, I have successfully led and contributed to the development of numerous projects, ranging from enterprise-level applications to scalable platforms.
+Senior Full-Stack Engineer with 8+ years of experience delivering data-heavy platforms and cloud-native services, with a strong DevOps foundation and hands-on AI integration. Leads cross-functional teams, owns end-to-end system design, and ships scalable applications using Laravel, NestJS, and modern frontend frameworks. Strengths include API design, microservices, CI/CD, AWS, data pipelines, and automation.
 
 ## WORK EXPERIENCE
 
-### KBR Wyle Services, Sioux Falls — Mid Level Software Engineer
+### Software Engineer II - KBR Inc (Contractor to USGS EROS)
 
-**OCT 2018 - PRESENT**
+**Sioux Falls, SD | OCT 2018 - PRESENT**
 
-As the Lead Software Engineer for the projects GeoEngine 5 and FFI, I am responsible for overseeing the technical development and implementation of GeoEngine 5 Data Processing Platform and FFI Data Depot. Currently working on multiple projects GeoEngine5, FEWS and FFI. In the past worked as a software engineer on projects like MTBS (Modern trends in Burn Severity) and made them operational currently used by NPS (National Parks Service) organization.
+- Lead engineer for GeoEngine 5, FEWS, and FFI, overseeing architecture, delivery, and reliability of data-processing and data-depot platforms.
+- Built scalable REST and event-driven APIs using domain-driven design and microservices for high-throughput workflows.
+- Owned application and database design for GeoEngine, including caching strategies with Redis and SQL performance tuning.
+- Designed CI/CD pipelines and automated code review by building GitLab agents to improve developer throughput.
+- Served as release manager for GeoEngine 5 and FFI across dev, stage, and production environments.
+- Supported AWS deployments and operations across EC2, RDS, S3, and CloudWatch.
+- Managed and mentored a 12-person team; handled planning, delivery, and project ownership across multiple initiatives.
+- Integrated LLM-powered automation for code review and workflow efficiency using Claude Code and internal pipelines.
+- Built AI agents that generate sprint-ready Jira tickets using the Jira MCP server.
 
-### Resposibilities
+**Key Projects**
 
-- Technical lead to couple of projects (GeoEngine 5 and FFI).
-- Gather requirements from clients and prioritize work backlog.
-- Work with the PM’s to create and update Jira tickets.
-- Work with new developers to pass Knowledge Transfer on the projects they work.
-- Manage several teams and new hires on multiple projects.
-- Carrying out technical sessions with developers regarding requirements and discuss about new technologies on the market that help our projects.
-- Code reviewing sprint PR requests and releasing them to dev, staging and production environments.
-- Programming with various programming languages on multiple projects.
-- Driving sprint planning sessions with the team and answer questions brought up by the team.
-- Works as a scrum master on GeoEngine5 project.
-- Conduct daily scrum status calls and gather team status updates on the work items.
+- GeoEngine 5:
+  - Laravel
+  - Python
+  - Livewire
+  - Alpine.js
+  - Tailwind CSS
+  - RabbitMQ
+  - PostgreSQL
+  - Redis
+- FEWS:
+  - Laravel
+  - MySQL
+  - Inertia.js
+  - React
+  - Tailwind CSS
+- FFI:
+  - NestJS
+  - TypeScript
+  - React
+  - Tailwind CSS
+  - Microservices
+  - PostgreSQL
+- MTBS ETD:
+  - Laravel
+  - Vue
+  - Bootstrap
 
-### TDAMERITRADE, Omaha — Software Developer
+### Software Developer - Contract (Nuance Data Migration)
 
-**JUN 2018 - OCT 2018**
+**Omaha, NE | JUN 2018 - OCT 2018**
 
-Worked on a short term project called Nuance as a contractor on large data migration from legacy java application to NoSQL database MongoDB using Spring Boot Batch Processing. This migration also includes moving data from Oracle relational database to MongoDB. Developed a daily batch processor to ingest data every 24 hours to MongoDB through an API.
+- Migrated legacy Java workflows to Spring Boot batch processing with MongoDB.
+- Built daily batch ingestion to synchronize Oracle data to MongoDB via REST APIs.
+- Implemented data validation, error handling, and reprocessing for high-volume batch runs.
+- Coordinated with onshore/offshore teams for issue triage, QA fixes, and delivery.
+- Documented migration steps and operational runbooks for handoff and support.
+- Tuned batch performance and monitored jobs to meet daily ingestion windows.
 
-### Responsibilities
+**Tech Stack**
 
-- Migration daily data from relational database to NoSQL database.
-- Implementation of daily and weekly batch processing of Nuance data.
-- Attend weekly status update calls on the development progress.
-- Active participation in technical discussions with the team lead.
-- Coordinating with offshore team on the development progress and provide status update to project manager on weekly basis.
-- Assist in troubleshooting and debugging issues reported by QA, identifying root causes and implementing appropriate fixes.
+- Java
+- Spring Batch
+- MongoDB
+- REST APIs
+- Batch Processing
 
-### SVS TECHNOLOGIES, Memphis — Junior Software Developer
+### Junior Software Developer
 
-**MAR 2018 - JUN 2018**
+**Memphis, TN | MAR 2018 - JUN 2018**
 
-Worked on a project to move legacy employee registry windows application to web application using Java and its web framework. Small team of 3 developers carries out all the work and it's relatively a small project. During this period i acquired frontend, backend and database skills.
+- Contributed to migration of a legacy Windows employee registry to a web application.
+- Implemented CRUD modules, validated data workflows, and supported UAT.
+- Built UI and backend components and resolved QA defects on tight timelines.
+- Implemented role-based access patterns and basic audit trails.
 
-### Responsibilities
+**Tech Stack**
 
-- Participate in the design, development, and testing phases of the project lifecycle, following established coding standards and best practices.
-- Collaborate with team members to analyze requirements, propose technical solutions, and estimate development efforts for new features and enhancements.
-- Write clean, efficient, and maintainable code in Java, adhering to object-oriented principles and design patterns.
-- Work with databases (such as MySQL, PostgreSQL) to implement data models and perform CRUD operations as required by the application.
-- Utilize version control systems (e.g., Github) to manage code repositories, branch management, and code merging.
-- Assist in troubleshooting and debugging issues reported by QA or end-users, identifying root causes and implementing appropriate fixes.
+- Java
+- JSP
+- JSF
+- MySQL
+- Bootstrap
+- HTML
+- JavaScript
 
-### UNIVERSITY OF SOUTH DAKOTA, Vermillion — Research Assistant
+### Research Assistant - University of South Dakota
 
-**JUN 2016 - JAN 2017**
+**Vermillion, SD | JUN 2016 - JAN 2017**
 
-As a research assistant, worked on the implementation of image change detection algorithm on earth MODIS satellite images using Python raster data processing libraries. This project is to research and analyze earth geographical changes over a period of time and provide change detection results.
+- Implemented image change detection algorithms on MODIS satellite imagery using Python raster data processing libraries.
+- Analyzed temporal geospatial data to detect and report earth surface changes.
+- Produced change detection outputs to support research and interpretation of geographic trends.
 
 ## EDUCATION
 
-Master’s Degree In Computer Science | University of South dakota, Vermillion (Jan 2016 - Dec 2017) | GPA (3.2/4)
+Master's in Computer Science | University of South Dakota, Vermillion, SD
 
-Bachelor’s Degree in Electronics and Communication Engineering | Vidya Jyothi Institute of Technology(JNTU), Hyderabad (Aug 2011 - May 2015) | GPA (3.75/4)
+Bachelor of Electronics and Communication Science | Vidya Jyothi Institute of Technology, JNTU Hyderabad
 
 ## SKILLS
 
-### Programming Skills
+### Backend
 
-- JavaScript
-- PHP
-- Python
-- TypeScript
-
-### Frameworks
-
-- Bootstrap CSS
-- Django
 - Laravel
 - NestJS
-- NextJS
-- ReactJS
-- Tailwind CSS
-- VueJS 2
-
-### Databases
-
-- DynamoDB
-- MySQL
-- PostgreSQL
-- TimescaleDB
-
-### Cloud Skills
-
-- Certified AWS Developer Associate
-- Amplify
-- API Gateway
-- AWS Lambda
-- Cloud Formation
-- Cognito
-- DynamoDB
-- CI/CD Services (Code Commit, Code Build, Code Deploy)
-- ECS
-- EC2
-- Elastic Beanstalk
-- IAM
-- RDS
-- Route 53
-- Serverless Application Model (SAM)
-- SNS
-- SQS
-- S3
-- VPC
-
-### Operating System
-
-- Windows
-- Linux/Centos
-
-### Web Servers
-
-- Apache
-- Nginx
-
-### CI/CD Tools
-
-- Ansible
-- Docker
-- Github
-- Gitlab
-
-### Distributed Systems
-
+- Node.js
+- REST APIs
+- OpenAPI
+- Microservices
+- gRPC
+- WebSockets
 - RabbitMQ
+
+### Frontend
+
+- Angular
+- Vue
+- React
+- Inertia.js
+- Tailwind CSS
+- Bootstrap
+
+### Languages
+
+- PHP
+- TypeScript
+- JavaScript
+- Python
+- Node.js
+
+### Datastores
+
+- PostgreSQL
+- MySQL
 - Redis
+- MariaDB
+- MongoDB
+- Elasticsearch
 
-### Workflow Management
+### Cloud/DevOps
 
-- Apache Airflow
+- AWS
+  - EC2
+  - RDS
+  - S3
+  - CloudWatch
+  - ECS
+  - CloudFront
+  - Route 53
+  - Lambda
+  - API Gateway
+  - IAM
+  - SNS
+  - SQS
+  - SES
+  - Secrets Manager
+  - SAM
+  - VPC
+- Docker
+- GitHub Actions
+- GitLab CI
+- Terraform
+- Kubernetes
+- Ansible
 
-### Other Skills
+### Observability
 
-- Adaptability
-- Agile Methodologies
-- Critical Thinking
-- Leadership Skills
-- Multi Tasking
-- Problem Solving
-- Project Management
+- Grafana
+- Prometheus
+- Loki
+- Alert Manager
+
+### AI/Automation
+
+- LLM integration
+- AI agents
+- prompt engineering
+- automation workflows
+- n8n
+- Claude Code
+- Codex
+
+### External Services
+
+- Stripe
+- Cloudflare
+- Google APIs
+- Telegram API
 
 ## PROJECTS
 
-### SMS - SCHOOL MANAGEMENT SYSTEM
+### GeoEngine 5 - Geospatial Data Processing Platform
 
-[Github Repository](https://github.com/iamsreepathi/sms-admin)
+Built a high-throughput platform that processes large raster datasets and produces statistics for multiple regions and time periods.
 
-Developed a comprehensive School Management System to streamline administrative processes, course management and improve communication between stakeholders including students, teachers, parents and amdins.
+**Highlights**
 
-**Technology Stack**
+- Implemented job orchestration, distributed processing, and cache layers to support daily, dekad, and monthly products.
+- Improved data processing reliability with idempotent workflows and retry strategies.
+- Deployed processing workloads on AWS and integrated cloud storage for raster inputs/outputs.
+- Delivered operational dashboards and alerting hooks to track pipeline health.
 
-JavaScript, NextJS, PostgreSQL, Prisma, RabbitMQ, Tailwind CSS, shadcn/ui, AWS Amplify
+### FEWS NET Data Portal - Famine Early Warning System
 
-### FEWS - FAMINE EARLY WARNING SYSTEM
+Delivered geo-spatial data access and monitoring tools to support drought analysis workflows.
 
-[Website](https://earlywarning.cr.usgs.gov/fews)
+**Highlights**
 
-The USGS FEWS NET Data Portal provides access to geo-spatial data, satellite image products, and derived data products in support of FEWS.NET drought monitoring efforts throughout the world. This portal is provided by the USGS FEWS NEt project, part of the Early Warning Focus Area at the USGS Earth Resources Observation and Science (EROS) center.
+- Built APIs and UI modules for data discovery, access, and reporting used by scientists and analysts.
+- Optimized data access paths for large geo-spatial catalogs and map layers.
+- Coordinated releases to align with seasonal reporting needs and stakeholder reviews.
 
-**Technology Stack**
+### FFI - FEAT/FIREMON Integrated
 
-PHP, Laravel, Javascript, MySQL, Tailwind CSS
+Migrated legacy Windows applications to a modern web platform with event-based microservices and CQRS patterns.
 
-### HMS - HOSPITAL MANAGEMENT SYSTEM
+**Highlights**
 
-[Github Repository](https://github.com/iamsreepathi/hospital-management)
+- Implemented data collection, storage, and analysis modules for ecological monitoring.
+- Built administrative tooling to manage field data and validation workflows.
+- Deployed services across AWS environments with cloud-backed storage and monitoring.
 
-The Hospital Management System is a comprehensive website designed to streamline and automate various administrative, clinical, and operational tasks within a healthcare facility. Enables efficient management of patient records, including registration, admission, discharge, and transfer processes.Provides a user-friendly interface for scheduling and managing patient appointments with doctors. Facilitates the management of doctor profiles, staff assignments, and schedules. Automates the billing process, including generating invoices, processing insurance claims, and managing payments.
+### MTBS ETD - Modern Trends in Burn Severity
 
-**Technology Stack**
+Delivered a web-based admin application to manage fire events and mapping metadata at scale.
 
-Python, Django, Javascript, PostgreSQL, Tailwind CSS and Alpine JS
+**Highlights**
 
-**Technology Stack**
+- Streamlined data entry and validation for nationwide fire event records.
+- Implemented reporting views to track processing status and history.
 
-JavaScript, NextJS, PostgreSQL, Prisma, RabbitMQ, Tailwind CSS, shadcn/ui
+### Nuance - Data Migration
 
-### FFI - FEAT/FIREMON INTEGRATED
+Migrated legacy systems to Spring Boot batch processing and MongoDB.
 
-FFI (FEAT/FIREMON Integrated) is an interagency plot-level monitoring software application designed to assist managers with collection, storage and analysis of ecological information. It was developed through a complementary integration of the Fire Ecology Assessment Tool (FEAT) and FIREMON. FFI is funded by the Department of the Interior and US Forest Service. This project is a complete migration of mutiple legacy Windows applications to the web platform. It follows microservices event based architecture and CQRS design pattern.
+**Highlights**
 
-**Technology Stack**
+- Built daily ingestion and validation workflows to keep datasets synchronized.
+- Developed monitoring and alerting hooks for batch failures and data anomalies.
 
-NodeJS, NestJS, Microservices, CQRS, PostgreSQL, MS SQL Server, TypeScript, TypeORM, ReactJS
+### Eventura - Full-Stack Event Management Platform
 
-### MTBS - MODERN TRENDS IN BURN SEVERITY
+Built a production-ready event platform with Laravel 12, Inertia v2, Vue 3, Tailwind v4, and Vite.
 
-The Monitoring Trends in Burn Severity (MTBS) is an inter agency program whose goal is to consistently map the burn severity and extent of large fires across all lands of the United State from 1984 to present. This includes all fires 1000 acres or greater in Western United States and 500 acres or greater in the Eastern United States. The extent of coverage includes the continental U.S., Alaska, Hawaii and Puerto Rico. ETD is a web-based administration application to manage a repository of fire events and its associated mapping information for MTBS postfire mapping programs.
+**Highlights**
 
-**Technology Stack**
+- Designed end-to-end workflows for event creation, RSVP, attendee management, and order history.
+- Integrated Stripe Checkout and webhook-driven order finalization.
+- Implemented transactional email via Amazon SES with SNS bounce/complaint handling and S3/CloudFront media delivery.
+- Added tests and CI-friendly quality gates with Pest v4, Pint, ESLint, and Prettier.
+- Implemented observability stacks with Grafana, Loki, and Prometheus for log analysis and metrics monitoring.
+- Automated daily database and Redis backups using n8n workflows.
 
-PHP, Laravel, Javascript, VueJS 2, Open Layers JS Library
+URL: https://goeventura.com
 
-### GEOENGINE 5
+### BuildWithCode - Technical Blog
 
-GeoEngine 5 is a data processing platform for multiple projects in our science division. It’s a platform which processes high volumes of raster data for multiple regions across the world and generates statistics on various products like CHIRPS, RFE, eMODIS, SoilMoisture etc., for various periodicities like Pentad (5 day), Dekad (10 day), Daily, Monthly, 2Month, 3Month, Yearly. These statistics are used on multiple USGS projects and scientists use them to study the changes across the globe.
+Built a static blog with Hugo (Congo theme) and Tailwind-based styling.
 
-**Technology Stack**
+**Highlights**
 
-PHP, Laravel, Python, JavaScript, RabbitMQ, PostgresQL, Docker
+- Automated CI/CD via GitHub Actions with OIDC-based deployment to AWS S3.
+- Integrated Utterances comments and Firebase newsletter subscriptions.
+- Improved performance with WebP images, lazy loading, asset fingerprinting, and SEO configs.
+- Managed Cloudflare DNS, WAF geo rules for US-only traffic, and static asset caching.
 
-### AFGHAN
-
-USGS participated in collaborative projects in Afghanistan’s natural resource sector from the 1950s through the early 1970s. Beginning in the late 1970s, conflict and instability in the country put an end to the USGS involvement for more than a quarter century. During that time, Afghan natural resource agencies and institutions were decimated. Scientists, technicians, and other employees were unable to continue their work or stay current in their research fields. Facilities and laboratories became largely non-functional. Instruments and equipment, as well as vehicles and logistical support, all but disappeared. However, many Afghan scientists were able to preserve decades worth of vital and irreplaceable geographic information and other data, in some cases safeguarding it in their own homes. This is a WordPress Website which has responsive map viewers for Afghan minerals, water resources and their respective data downloads.
-
-**Technology Stack**
-
-PHP, WordPress, JavaScript, Open Layers, GeoServer
-
-### NUANCE
-
-The project entails migration of legacy java application to latest spring boot application for batch processing. This also includes migration of databases from Oracle to NoSQL database MongoDB. This is a daily data injection to MongoDB from a REST application.
-
-**Technology Stack**
-
-Java 8, Spring Boot 2, Spring Batch, MongoDB, Spring REST
+URL: https://buildwithcode.dev
 
 ## CERTIFICATIONS
 
-### AWS Certified Developer – Associate
-
-![AWS certified Developer](/assets/img/aws-dev-ass.png)
+### AWS Certified Developer - Associate
 
 - Demonstrates proficiency in designing, developing, and deploying applications on the Amazon Web Services (AWS) platform.
 - Validates skills in leveraging AWS services such as Lambda, API Gateway, DynamoDB, and S3 to build scalable and reliable applications.
 - Expertise in serverless application development, containerization, and integration with various AWS services.
 - Demonstrated understanding of AWS security best practices, identity and access management (IAM), and compliance requirements.
-- Successfully passed the AWS Certified Developer – Associate certification exam, validating practical knowledge and experience in AWS application development.
+- Successfully passed the AWS Certified Developer - Associate certification exam, validating practical knowledge and experience in AWS application development.
+
+### Certified Kubernetes Administrator (CKA)
+
+- Preparing for certification.
 
 ## AWARDS
 
-2023 ONE KBR AWARD WINNER | Awarded on Oct 23, 2023
-
-2022 FFI TEAM AWARD WINNER | Awarded on June 16, 2022
-
-2021 ONE KBR AWARD WINNER | Awarded on Nov 21, 2021
-
-2019 ONE KBR AWARD WINNER | Awarded on Aug 16, 2019
+- ONE KBR Award Winner - 2025
+- ONE KBR Award Winner - 2023
+- FFI Team Award Winner - 2022
+- ONE KBR Award Winner - 2021
+- ONE KBR Award Winner - 2019
 
 ## ARTICLES
 
